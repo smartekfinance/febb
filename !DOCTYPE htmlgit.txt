@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/AKfycbzS2323DB1rc7SQZrSA7x9Ee-2J4NDUjedWSlgcbOc/dev">
+</head>
+<body>
+  Redirecting...
+</body>
+</html>
